@@ -2,14 +2,10 @@
 A responsive clone of the Netflix landing page, created using HTML, CSS, and JavaScript.
 
 ## **Table of Contents:**
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-
-## **Demo**
-You can view a live demo of the Netflix Clone [here](#).
 
 ## **Features:**
 - **Responsive design**
